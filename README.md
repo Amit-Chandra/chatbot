@@ -47,5 +47,3 @@ Contributions are welcome! Please check the [contributing guidelines](CONTRIBUTI
 ## Contact
 
 For inquiries, contact ask.amitchandra@gmail.com
-
-Replace placeholders like `yourusername/your-repo` with your actual GitHub username and repository name. If there are additional sections or specific details you want to include, feel free to modify as needed.
